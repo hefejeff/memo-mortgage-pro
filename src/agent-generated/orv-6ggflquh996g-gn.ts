@@ -1,10 +1,10 @@
 /**
  * Auto-generated fallback implementation scaffold.
  * Story: Delete the src/agent-generated folder
- * Run: -OrV-6gGfLquh996g-Gn-1777579628785
+ * Run: -OrV-6gGfLquh996g-Gn-1777580140700
  */
 export const agentGeneratedStorySpec = {
-  runId: "-OrV-6gGfLquh996g-Gn-1777579628785",
+  runId: "-OrV-6gGfLquh996g-Gn-1777580140700",
   storyId: "-OrV-6gGfLquh996g-Gn",
   title: "Delete the src/agent-generated folder",
   description: "Delete the src/agent-generated folder and all files within it",
