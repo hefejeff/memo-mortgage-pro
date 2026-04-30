@@ -1,6 +1,6 @@
 {
   "name": "memo-mortgage-pro",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -11,8 +11,8 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "tailwindcss": "^2.2.19",
-    "postcss": "^8.4.5",
-    "autoprefixer": "^10.4.2"
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
   },
   "devDependencies": {
     "vite": "^2.6.14",
