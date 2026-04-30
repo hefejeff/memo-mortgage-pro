@@ -3,7 +3,7 @@ import LoginScreen from './components/LoginScreen';
 
 const App: React.FC = () => {
   return (
-    <div className="App">
+    <div>
       <LoginScreen />
     </div>
   );
