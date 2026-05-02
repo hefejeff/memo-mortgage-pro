@@ -1,10 +1,10 @@
 /**
  * Auto-generated fallback implementation scaffold.
  * Story: Remove the files
- * Run: -OrV-6gGfLquh996g-Gn-1777742347399
+ * Run: -OrV-6gGfLquh996g-Gn-1777743099947
  */
 export const agentGeneratedStorySpec = {
-  runId: "-OrV-6gGfLquh996g-Gn-1777742347399",
+  runId: "-OrV-6gGfLquh996g-Gn-1777743099947",
   storyId: "-OrV-6gGfLquh996g-Gn",
   title: "Remove the files",
   description: "Remove the src/agent-generated/tailwind.config.js file",
